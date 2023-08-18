@@ -4,7 +4,7 @@ type PostProps = {
   toggle?: false;
 };
 
-export default function Post({ id, title, toggle }: PostProps) {
+export default function Post({ id, title }: PostProps) {
   return (
     <div>
       <p>New User Below</p>
