@@ -96,10 +96,6 @@ export default function App() {
 
   console.log(data);
 
-  // const changeTitle = () => {
-  //   setPostTitle(null);
-  // };
-
   return (
     <div>
       Typescript Crash Course Refresher
